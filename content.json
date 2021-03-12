@@ -1,0 +1,751 @@
+{
+	"metaHomeTitle": {
+		"pt": "Cv Generator Início",
+		"en": "Cv Generator Homepage"
+	},
+	"metaHomeDescription": {
+		"pt": "Gerador de currículos on-line",
+		"en": "On-line curriculum generator"
+	},
+	"metaHomeKeyword": {
+		"pt": "Currículos on-line, Oportunidade de emprego",
+		"en": "Curriculum generator, Job oportunities"
+	},
+	"metaCvTitle": {
+		"pt": "Cv Generator Formulário",
+		"en": "Cv Generator Form"
+	},
+	"metaCvDescription": {
+		"pt": "Gerador de currículos modernos e bonitos",
+		"en": "On-line curriculum modern and beautiful"
+	},
+	"metaCvKeyword": {
+		"pt": "Currículos on-line, Currículo em pdf",
+		"en": "Curriculum generator, pdf Curriculum"
+	},
+	"metaAboutTitle": {
+		"pt": "Cv Generator - Sobre",
+		"en": "Cv Generator - About"
+	},
+	"metaAboutDescription": {
+		"pt": "Cv Generator - Saber mais",
+		"en": "Cv Generator - About us"
+	},
+	"metaAboutKeyword": {
+		"pt": "Currículos on-line, Saber mais",
+		"en": "Curriculum generator, Know more about us"
+	},
+	"aboutTitle": {
+		"pt": "Saber mais...",
+		"en": "Know more..."
+	},
+	"aboutSubTitle": {
+		"pt": "Saiba mais sobre a nossa equipa e conecte-se às nossas redes",
+		"en": "Know more about our team and conect to our networks"
+	},
+	"aboutButton": {
+		"pt": "Fale connosco",
+		"en": "Contact Us"
+	},
+	"aboutDescription": {
+		"pt": "Fale connosco",
+		"en": "Contact Us"
+	},
+	"authorCredit": {
+		"pt": " por Hernâni Medeiros",
+		"en": " by Hernâni Medeiros"
+	},
+	"authorLink": {
+		"pt": "http://linkedin.com/in/hernanimedeiros/",
+		"en": "http://linkedin.com/in/hernanimedeiros/"
+	},
+	"authorMessageA": {
+		"pt": "Desenhado com ",
+		"en": "Design with "
+	},
+	"authorMessageB": {
+		"pt": ", para sonhadores...",
+		"en": ", for dreamers..."
+	},
+	"homeSubTitle": {
+		"pt": "",
+		"en": ""
+	},
+	"homeDescription": {
+		"pt": "Gera o teu currículo moderno e arrojado e chama a atenção dos recrutadores!",
+		"en": "Generate your curriculum in a modern and edge away to call the recruiters atention!"
+	},
+	"homeButton": {
+		"pt": "Constrói o teu Curriculum Vitae!",
+		"en": "Let's generate your Curriculum Vitae"
+	},
+	"homeBoxATitle": {
+		"pt": "Chama a atenção dos recrutadores",
+		"en": "Call the recruiters attention"
+	},
+	"homeBoxADescription": {
+		"pt": "Constrói um currículo que vai despertar a atenção de quem escolhe os cadidatos que são chamados para uma entrevista.",
+		"en": "Build a curriculum that will call the atention of the persons who pick the cadidates. Get ready for the next interview..."
+	},
+	"homeBoxBTitle": {
+		"pt": "Constrói um currículo moderno",
+		"en": "Build a modern curriculum"
+	},
+	"homeBoxBDescription": {
+		"pt": "Cansado dos currículos tradicionais? Gera um currículo com um visual elegante e cativante.",
+		"en": "Tired from the tradicional curriculums? Generate a curriculum with a elegant and captivating look"
+	},
+	"homeBoxCTitle": {
+		"pt": "Um currículo com o campos certos",
+		"en": "A curriculum with the right fields"
+	},
+	"homeBoxCDescription": {
+		"pt": "Acaba com a dúvidas de quais os campos correctos para obter um currículo vencedor. O Cv Generator irá por um fim aos teus receios!",
+		"en": "End with the doubts, of choose the correct format to obtain a winner curriculum. The Cv Generator will over with your fears!"
+	},
+	"homeBoxDTitle": {
+		"pt": "Agarra o emprego do teus sonhos",
+		"en": "Grab the job of yours dreams"
+	},
+	"homeBoxDDescription": {
+		"pt": "Com este documento vais conseguir agarrar o emprego que tens em vista. Confia nos teus instintos!",
+		"en": "In this document you will get the job that your pursuit for so long. Trust in your instincts!"
+	},
+	"optionsTitle": {
+		"pt": "Dei os retoques finais",
+		"en": "Make your final touch"
+	},
+	"optionsSubTitle": {
+		"pt": "Personalize o seu C.V.",
+		"en": "Customize your C.V."
+	},
+	"optionsLabelColor": {
+		"pt": "Faixa lateral",
+		"en": "Side wrapper"
+	},
+	"optionsLabelElement": {
+		"pt": "Mostrar elementos",
+		"en": "Show elements"
+	},
+	"optionsBackground": {
+		"pt": "Cor de fundo:",
+		"en": "Background color:"
+	},
+	"optionsColor": {
+		"pt": "Cor do texto:",
+		"en": "Text color:"
+	},
+	"optionsExample": {
+		"pt": "Pré-visualizar",
+		"en": "Preview"
+	},
+	"cookiesMessage": {
+		"pt": "Este site ainda não usa cookies!",
+		"en": "This site, until this day, do not use cookies!"
+	},
+	"flagName": {
+		"pt": "Bandeira portuguesa",
+		"en": "United Kingdom flag"
+	},
+	"previewPage": {
+		"pt": "Prever em tempo real",
+		"en": "Preview in real time"
+	},
+	"previewBox": {
+		"pt": "Prever documento em uma janela",
+		"en": "Preview document in a window"
+	},
+	"previewTitle": {
+		"pt": "Complete o processo",
+		"en": "Complete the process"
+	},
+	"previewSubTitle": {
+		"pt": "Obtenha o seu moderno Curriculum Vitae",
+		"en": "Get your stylish Curriculum Vitae"
+	},
+	"previewPdf": {
+		"pt": "Imprimir ou salvar para o pc (pdf)",
+		"en": "Print or save to the pc (pdf)"
+	},
+	"previewPdfMessage": {
+		"pt": "Pode rever o documento e fazer alterações a qualquer altura",
+		"en": "You can review the document and chage it at any time"
+	},
+	"previewDataLabel": {
+		"pt": "Dados:",
+		"en": "Data:"
+	},
+	"previewDataSubLabel": {
+		"pt": "JSON",
+		"en": "JSON"
+	},
+	"previewDataTitle": {
+		"pt": "Dados marcados como completos",
+		"en": "Data marked as completed:"
+	},
+	"previewDataSubTitle": {
+		"pt": "...clique acima para ver",
+		"en": "...click above to show"
+	},
+	"previewDataAlert": {
+		"pt": "Parabéns! Estás a ver informações de desenvolvedor",
+		"en": "Congrats! You are seeing dev info!"
+	},
+	"successLabel": {
+		"pt": "Um Curriculum Vitae bonito e moderno",
+		"en": "Obtain a marvelous and modern Curriculum Vitae"
+	},
+	"successWish": {
+		"pt": "A equipa do CvGenerator deseja-te muitos sucessos profissionais e pessoais",
+		"en": "The CvGenerator team wish you a great professional and personal success"
+	},
+	"testimonialA": {
+		"pt": "Consegui regressar ao trabalho com o currículo que fiz no site CvGenerator...",
+		"en": "I have got a new job after deliver a curriculum produced in CvGenerator website..."
+	},
+	"testimonialFooterA": {
+		"pt": "Maria Lopez - 2020",
+		"en": "Maria Lopez - 2020"
+	},
+	"testimonialB": {
+		"pt": "Fiquei muito satisfeito com os resultados que obtive no site CvGenerator... ",
+		"en": "I am very pleased with the results that I get in CvGenerator website... "
+	},
+	"testimonialFooterB": {
+		"pt": "John Snow - 2020",
+		"en": "John Snow - 2020"
+	},
+
+	"cancel": {
+		"pt": "Cancelar",
+		"en": "Cancel"
+	},
+	"languageTitle": {
+		"pt": "Escolha um idioma / Choose a language",
+		"en": "Escolha um idioma / Choose a language"
+	},	
+	"languageSelection": {
+		"pt": "OK",
+		"en": "OK"
+	},
+	"navBarService": {
+		"pt": "GerarCv",
+		"en": "CvGenerator"
+	},
+	"navBarAbout": {
+		"pt": "Sobre",
+		"en": "About"
+	},
+	"cvHelpTitle": {
+		"pt": "Ajuda",
+		"en": "Help"
+	},
+	"cvHelpContent": {
+		"pt": "Ajuda sobre o CV.",
+		"en": "Help about CV."
+	},
+	"completedLabel": {
+		"pt": "Confirmar",
+		"en": "Confirm"
+	},
+	"completedInfo": {
+		"pt": "Por favor torne o círculo verde para confirmar as mudanças",
+		"en": "Please turn the ball green to confirm changes"
+	},
+	"completedMessageA": {
+		"pt": "Obrigado!",
+		"en": "Thank you!"
+	},
+	"completedMessageB": {
+		"pt": "Complete todas as secções para ter o seu C.V. mais completo",
+		"en": "Complete all sections to have your C.V. more complete"
+	},
+	"completedMessageC": {
+		"pt": "Você completou todos os items. Obrigado pela preferência e votos de sucesso.",
+		"en": "You complete all fields. Thank you and We desire to you the best in future."
+	},
+	"incompletedMessageA": {
+		"pt": "Atenção!",
+		"en": "Attention!"
+	},
+	"incompletedMessageB": {
+		"pt": "Você acabou de marcar o item como incompleto!",
+		"en": "You uncheck the completed field!"
+	},
+	"incompletedMessageC": {
+		"pt": "Você tem items por completar!",
+		"en": "You have unchecked items!"
+	},
+	"globalCompleted": {
+		"pt": "Confirmados:",
+		"en": "Completed:"
+	},
+	"globalNotCompleted": {
+		"pt": "| Por confirmar:",
+		"en": "| Not completed:"
+	},
+	"globalThanksA": {
+		"pt": "Obrigado!",
+		"en": "Thank you"
+	},
+	"globalThanksB": {
+		"pt": "Mais uma vez obrigado!",
+		"en": "One more time, thank you!"
+	},
+	"globalThanksC": {
+		"pt": "Obrigado por tudo!",
+		"en": "Thank you for everything"
+	},
+	"courseCardTitle": {
+		"pt": "Formações",
+		"en": "Courses"
+	},
+	"courseCardSubTitle": {
+		"pt": "Adicione as mais marcantes",
+		"en": "Add the most relevants"
+	},
+	"courseLabel": {
+		"pt": "Formações profissionais",
+		"en": "Professional courses"
+	},
+	"courseTitle": {
+		"pt": "Formações:",
+		"en": "Courses:"
+	},
+	"courseTitlePlaceholder": {
+		"pt": "Primeiros Socorros e suporte básico de vida",
+		"en": "Life support"
+	},
+	"courseDuration": {
+		"pt": "Duração da formação:",
+		"en": "Course duration"
+	},
+	"courseDurationPlaceholder": {
+		"pt": "30 h",
+		"en": "30 h"
+	},
+	"courseDescription": {
+		"pt": "Descrição da formação:",
+		"en": "Course description"
+	},
+	"courseDescriptionPlaceholder": {
+		"pt": "Descrição dos conteúdos da formação",
+		"en": "Description do couse content"
+	},
+	"courseTitleInvalidVoid": {
+		"pt": "Introduza pelo menos 6 letras",
+		"en": "Introduce at least 6 characters"
+	},
+	"courseDurationInvalidVoid": {
+		"pt": "Introduza pelo menos 3 caracteres",
+		"en": "Introduce at least 5 characters"
+	},
+	"courseDescriptionInvalidVoid": {
+		"pt": "Introduza pelo menos 4 letras",
+		"en": "Introduce at least 4 characters"
+	},
+	"courseTitleInvalid": {
+		"pt": "Introduza a designação da formação",
+		"en": "Introduce the course designation"
+	},
+	"courseDurationInvalid": {
+		"pt": "Introduza a duração em horas (h)",
+		"en": "Introduce the course duration in hours (h)"
+	},
+	"courseDescriptionInvalid": {
+		"pt": "Descreva sucintamente a formação",
+		"en": "Describe briefly the course"
+	},
+	"profileCardTitle": {
+		"pt": "Perfil",
+		"en": "Profile"
+	},
+	"profileCardSubTitle": {
+		"pt": "Com este currículo vais agarrar o lugar dos seus sonhos",
+		"en": "With this c.v. you will get the job of your dreams"
+	},
+	"profileLabel": {
+		"pt": "Perfil pessoal",
+		"en": "Personal profile"
+	},
+	"profilePhoto": {
+		"pt": "",
+		"en": ""
+	},
+	"profilePhotoLabel": {
+		"pt": "Escolha uma foto de perfil",
+		"en": "Pick a profile photo"
+	},
+	"profilePhotoPlaceholder": {
+		"pt": "Escolha um ficheiro .jpg, .jpeg, .png com altura=largura",
+		"en": "Choose a file with this extension .jpg, .jpeg, .png with width=height"
+	},
+	"profilePhotoDropPlaceholder": {
+		"pt": "Arraste o ficheiro para aqui..",
+		"en": "Drag a image to this area..."
+	},
+	"profileFirstName": {
+		"pt": "Primeiro Nome:",
+		"en": "First Name:"
+	},
+	"profileFirstNameDefault": {
+		"pt": "Alexandre",
+		"en": "Alex"
+	},
+	"profileFirstNamePlaceholder": {
+		"pt": "O seu primeiro nome",
+		"en": "Your first name"
+	},
+	"profileLastName": {
+		"pt": "Último Nome:",
+		"en": "Last name:"
+	},
+	"profileLastNameDefault": {
+		"pt": "Silva",
+		"en": "Woodgate"
+	},
+	"profileLastNamePlaceholder": {
+		"pt": "O seu último nome",
+		"en": "Your last name"
+	},
+	"profilePosition": {
+		"pt": "Posição desejada:",
+		"en": "Position desired:"
+	},
+	"profilePositionDefault": {
+		"pt": "Arquiteto",
+		"en": "Arquitet"
+	},
+	"profilePositionPlaceholder": {
+		"pt": "A posição que pretende candidatar-se",
+		"en": "The job position do you wanna apply for"
+	},
+	"profilePhone": {
+		"pt": "Contato:",
+		"en": "Phone number:"
+	},
+	"profilePhoneDefault": {
+		"pt": "+351 212 000 000",
+		"en": "+351 212 000 000"
+	},
+	"profilePhonePlaceholder": {
+		"pt": "Insira o seu contato móvel",
+		"en": "Insert your mobile contact "
+	},
+	"profileEmail": {
+		"pt": "E-mail:",
+		"en": "E-mail:"
+	},
+	"profileEmailDefault": {
+		"pt": "alexandresilva@mail.com",
+		"en": "alexwoodgate@mail.com"
+	},
+	"profileEmailPlaceholder": {
+		"pt": "Insira o seu melhor e-mail",
+		"en": "Insert your best e-mail"
+	},
+	"profileAddress": {
+		"pt": "Morada:",
+		"en": "Address:"
+	},
+	"profileAddressDefault": {
+		"pt": "Montijo - Setúbal",
+		"en": "Chelsea - London"
+	},
+	"profileAddressPlaceholder": {
+		"pt": "ex: Cidade - Distrito",
+		"en": "City"
+	},
+	"profileAbout": {
+		"pt": "Sobre mim:",
+		"en": "About me:"
+	},
+	"profileAboutDefault": {
+		"pt": "Gosto de abraçar novos desafios. Sou pontual... Adoro a missão da vossa empresa.",
+		"en": "I enjoy embrace new chalenges. I am a hard worker... I love your company social work."
+	},
+	"profileAboutPlaceholder": {
+		"pt": "Escreva livremente sobre si e sobre as suas expectativas",
+		"en": "Write freely about you and your future expectations"
+	},
+	"profileStrength": {
+		"pt": "Pontos fortes:",
+		"en": "Strong features :"
+	},
+	"profileStrengthDefault": {
+		"pt": ["Espírito de equipa","Liderança"],
+		"en": ["Team spirit","Leadership"]
+	},
+	"profileStrengthPlaceholder": {
+		"pt": "Bom inglês, Autocad, Lealdade",
+		"en": "French, Autocad, Focus"
+	},
+	"profileSocialNetwork": {
+		"pt": "Redes Sociais:",
+		"en": "Social Networks:"
+	},
+	"profileSocialNetworkDefault": {
+		"pt": ["facebook.com/hernanifelixmedeiros/","linkedin.com/in/hernanimedeiros/"],
+		"en": ["facebook.com/hernanifelixmedeiros/","linkedin.com/in/hernanimedeiros/"]
+	},
+	"profileSocialNetworkPlaceholder": {
+		"pt": "As suas redes sociais ex:linkedin.com/in/nome-do-perfil/",
+		"en": "Your social networks ex:linkedin.com/in/nome-do-perfil/"
+	},
+	"profileHobbie": {
+		"pt": "Interesses:",
+		"en": "Interests:"
+	},
+	"profileHobbieDefault": {
+		"pt": ["Crossfit","Leitura"],
+		"en": ["Crossfit","Reading"]
+	},
+	"profileHobbiePlaceholder": {
+		"pt": "Os seus principais hobbies",
+		"en": "What your do in the free time"
+	},
+	"profileFirstNameInvalidVoid": {
+		"pt": "Introduza pelo menos 3 letras",
+		"en": "Introduce at least 3 characters"
+	},
+	"profileLastNameInvalidVoid": {
+		"pt": "Introduza pelo menos 3 letras",
+		"en": "Introduce at least 3 characters"
+	},
+	"profilePositionInvalidVoid": {
+		"pt": "Introduza pelo menos 3 letras",
+		"en": "Introduce at least 3 characters"
+	},
+	"profilePhoneInvalidVoid": {
+		"pt": "Introduza pelo menos 9 algarismos",
+		"en": "Introduce at least 9 numbers"
+	},
+	"profileEmailInvalidVoid": {
+		"pt": "Não se esqueça da @",
+		"en": "Do not forget of @"
+	},
+	"profileAddressInvalidVoid": {
+		"pt": "Introduza pelo menos 5 letras",
+		"en": "Introduce at least 5 characters"
+	},
+	"profileFirstNameInvalid": {
+		"pt": "Introduza um nome válido",
+		"en": "Introduce a valid name"
+	},
+	"profileLastNameInvalid": {
+		"pt": "Introduza um sobre nome válido",
+		"en": "Introduce a valid surname"
+	},
+	"profilePositionInvalid": {
+		"pt": "Introduza uma posição válida",
+		"en": "Introduce a valid position"
+	},
+	"profilePhoneInvalid": {
+		"pt": "Introduza um nr. de telefone válido",
+		"en": "Introduce a valid phone number"
+	},
+	"profileEmailInvalid": {
+		"pt": "Introduza um e-mail válido",
+		"en": "Introduce a valid e-mail"
+	},
+	"profileAddressInvalid": {
+		"pt": "Introduza pelo menos a cidade",
+		"en": "Introduce at least the city"
+	},
+	"educationCardTitle": {
+		"pt": "Educação",
+		"en": "Education"
+	},
+	"educationCardSubTitle": {
+		"pt": "Adicione as principais",
+		"en": "Add the major ones"
+	},
+	"educationLabel": {
+		"pt": "Educação",
+		"en": "Education"
+	},
+	"educationTitle": {
+		"pt": "Educação:",
+		"en": "Education"
+	},
+	"educationTitlePlaceholder": {
+		"pt": "Universidade da Beira Interior",
+		"en": "University of Oxford"
+	},
+	"educationDuration": {
+		"pt": "Duração:",
+		"en": "Time"
+	},
+	"educationDurationPlaceholder": {
+		"pt": "2010 - 2015",
+		"en": "2010 - 2015"
+	},
+	"educationDescription": {
+		"pt": "Designação:",
+		"en": "Designation"
+	},
+	"educationDescriptionPlaceholder": {
+		"pt": "Arquitetura",
+		"en": "Arquiteture"
+	},
+	"educationTitleInvalidVoid": {
+		"pt": "Introduza pelo menos 6 letras",
+		"en": "Introduce at least 6 characters"
+	},
+	"educationDurationInvalidVoid": {
+		"pt": "Introduza pelo menos 5 letras",
+		"en": "Introduce at least 5 characters"
+	},
+	"educationDescriptionInvalidVoid": {
+		"pt": "Introduza pelo menos 4 letras",
+		"en": "Introduce at least 4 characters"
+	},
+	"educationTitleInvalid": {
+		"pt": "Introduza a Instituição de ensino",
+		"en": "Introduce the School"
+	},
+	"educationDurationInvalid": {
+		"pt": "Introduza o período de duração do curso",
+		"en": "Introduce the period of studies"
+	},
+	"educationDescriptionInvalid": {
+		"pt": "Introduza a designação do curso",
+		"en": "Introduce degree designation"
+	},
+	"experienceCardTitle": {
+		"pt": "Experiência profissional",
+		"en": "Professional experience"
+	},
+	"experienceCardSubTitle": {
+		"pt": "Adicione as mais relevantes",
+		"en": "Add the most important"
+	},
+	"experienceLabel": {
+		"pt": "Experiência Profissional",
+		"en": "Professional experience"
+	},
+	"experienceTitle": {
+		"pt": "Experiência:",
+		"en": "Experience:"
+	},
+	"experienceTitlePlaceholder": {
+		"pt": "Backend Engineer",
+		"en": "Backend Engineer"
+	},
+	"experienceSubTitle": {
+		"pt": "Empresa:",
+		"en": "Company"
+	},
+	"experienceSubTitlePlaceholder": {
+		"pt": "WebMax",
+		"en": "WebMax"
+	},
+	"experienceDuration": {
+		"pt": "Duração das funções:",
+		"en": "Time in duty"
+	},
+	"experienceDurationPlaceholder": {
+		"pt": "Maio 2018 - Abril 2020",
+		"en": "May 2018 - April 2020"
+	},
+	"experienceDescription": {
+		"pt": "Descreva as suas funções:",
+		"en": "Describe your job"
+	},
+	"experienceDescriptionPlaceholder": {
+		"pt": "Prototipagem, Web design, PHP, MySQL, Laravel, Cookie PHP, JigSaw, Testes, Deploy",
+		"en": "Web design, PHP, MySQL, Laravel, Cookie PHP, JigSaw, Tests, Deploy"
+	},
+	"experienceTitleInvalidVoid": {
+		"pt": "Introduza pelo menos 6 letras",
+		"en": "Introduce at least 6 letters"
+	},
+	"experienceSubTitleInvalidVoid": {
+		"pt": "Introduza pelo menos 6 letras",
+		"en": "Introduce at least 6 letters"
+	},
+	"experienceDurationInvalidVoid": {
+		"pt": "Introduza pelo menos 5 letras",
+		"en": "Introduce at least 5 letters"
+	},
+	"experienceDescriptionInvalidVoid": {
+		"pt": "Introduza pelo menos 4 letras",
+		"en": "Introduce at least 4 letters"
+	},
+	"experienceTitleInvalid": {
+		"pt": "Introduza a posição",
+		"en": "Introduce the position"
+	},
+	"experienceSubTitleInvalid": {
+		"pt": "Introduza a empresa",
+		"en": "Introduce the company"
+	},
+	"experienceDurationInvalid": {
+		"pt": "Introduza o período de atividade",
+		"en": "Introduce your time in duty"
+	},
+	"experienceDescriptionInvalid": {
+		"pt": "Por favor descreva as suas funções mais relevantes",
+		"en": "Describe your main functions in the company"
+	},
+	"skillCardTitle": {
+		"pt": "Competências profissionais",
+		"en": "Professional skills"
+	},
+	"skillCardSubTitle": {
+		"pt": "Adicione as suas principais competências",
+		"en": "Add your main professional skills"
+	},
+	"skillLabel": {
+		"pt": "Principais competências",
+		"en": "Main skills"
+	},
+	"skillTitle": {
+		"pt": "Competências:",
+		"en": "Expertise:"
+	},
+	"skillTitlePlaceholder": {
+		"pt": "Microsoft Office",
+		"en": "Microsoft Office"
+	},
+	"skillDescription": {
+		"pt": "Uma breve descrição:",
+		"en": "Brief description"
+	},
+	"skillDescriptionPlaceholder": {
+		"pt": "Competências avançadas em Word, Power Point, Access e Excel (eg. Macros, VBA)",
+		"en": "Ninja skills in Word, Power Point, Excel and Access"
+	},
+	"skillTitleInvalidVoid": {
+		"pt": "Introduza pelo menos 6 letras",
+		"en": "Introduce at least 6 letters"
+	},
+	"skillDescriptionInvalidVoid": {
+		"pt": "Introduza pelo menos 6 letras",
+		"en": "Introduce at least 6 letters"
+	},
+	"skillTitleInvalid": {
+		"pt": "Introduza uma competência profissional",
+		"en": "Introduce your professional skills"
+	},
+	"skillDescriptionInvalid": {
+		"pt": "Por favor descreva a competência profissional",
+		"en": "Describe your professional skill"
+	},
+	"skillRating": {
+		"pt": "Avalie a sua competência (opcional)",
+		"en": "Rate your skill (optional)"
+	},
+	"skillRatingShow": {
+		"pt": "Avaliações (estrelas):",
+		"en": "Ratings (stars):"
+	},
+	"lorem": {
+		"pt": "Lorem (pt) ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		"en": "Lorem (en) ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+	},
+	"loremShort": {
+		"pt": "Lorem (pt) ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"en": "Lorem (en) ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	}
+}	
