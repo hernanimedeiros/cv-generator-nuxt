@@ -59,7 +59,7 @@ export default {
     /* The image used */
     background-image: url("../assets/people-meeting.jpg");
     /* Height */
-    height: 50vh;
+    height: 40vh;
     /* Props */
     background-position: center;
     background-repeat: no-repeat;
