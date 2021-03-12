@@ -18,3 +18,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/af0cd648-0846-4742-965a-5457faadb87b/deploy-status)](https://app.netlify.com/sites/cv-generator-nuxt/deploys)
