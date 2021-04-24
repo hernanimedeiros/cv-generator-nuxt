@@ -1,4 +1,6 @@
-# nuxt_app
+# cv-generator-nuxt
+A CV generator app written in Nuxt.
+In dev environment everything worked like a charm but when I deployed it on Netlify some components broken... I will revisited this app in future...
 
 ## Build Setup
 
